@@ -1,0 +1,9 @@
+name: mtg
+description: A Magic the Gathering simulator
+version: 0.0.1
+author: May
+
+environment:
+  sdk: '>=2.10.0'
+
+dependencies:

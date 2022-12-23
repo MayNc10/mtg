@@ -1,0 +1,14 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "mtg",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.10"
+    }
+  ],
+  "generated": "2022-12-23T21:29:30.520692Z",
+  "generator": "pub",
+  "generatorVersion": "2.18.5"
+}
